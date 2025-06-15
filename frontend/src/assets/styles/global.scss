@@ -1,0 +1,10 @@
+@font-face {
+    font-family: kookExtraBold;
+    src: url("./fonts/kook/Kook-ExtraBold.woff");
+    font-style: normal;
+}
+
+* {
+    font-family: kookExtraBold !important;
+    font-feature-settings: "ss01" !important;
+}
